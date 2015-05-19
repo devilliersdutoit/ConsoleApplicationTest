@@ -8,7 +8,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Branch na master.  b1");
+            Console.WriteLine("Branch na master.  b3");
             Console.ReadLine();
         }
     }
