@@ -8,7 +8,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world! what are you doing.f35");
+            Console.WriteLine("F2 - c1");
             
             Console.ReadLine();
         }
